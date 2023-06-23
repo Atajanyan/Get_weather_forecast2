@@ -9,7 +9,7 @@ body{
     align-items: center;
 }
 .container{
-    width: 1400px;
+    width: 80%;
     height: 700px;
     display: flex;
     flex-wrap: wrap;
